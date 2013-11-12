@@ -1,0 +1,14 @@
+{
+    "description": "description of dremote",
+    "framework": "ubuntu-sdk-13.10",
+    "hooks": {
+        "dremote": {
+            "apparmor": "dremote.json",
+            "desktop": "dremote.desktop"
+        }
+    },
+    "maintainer": "Zsombor Egri <zsombor.egri@canonical.com>",
+    "name": "com.ubuntu.developer.zsombi.dremote",
+    "title": "dremote",
+    "version": "0.1"
+}
